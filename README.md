@@ -1,2 +1,2 @@
 # tic-tac-toe
-tic-tac-toe with PyQT6
+Крестики-нолики на python. Интерфейс создан с использованием библиотеки PyQT6.
